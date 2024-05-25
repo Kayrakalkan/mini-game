@@ -1,1 +1,1 @@
-# npm insall
+# npm install
