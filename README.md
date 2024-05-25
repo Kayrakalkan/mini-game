@@ -1,1 +1,1 @@
-# mini-game
+# npm insall
